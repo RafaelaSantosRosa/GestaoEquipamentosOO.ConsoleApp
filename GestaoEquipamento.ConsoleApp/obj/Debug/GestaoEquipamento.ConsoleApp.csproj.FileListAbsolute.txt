@@ -1,0 +1,7 @@
+C:\Users\tinac\source\repos\GestaoEquipamento\GestaoEquipamento.ConsoleApp\bin\Debug\GestaoEquipamento.ConsoleApp.exe.config
+C:\Users\tinac\source\repos\GestaoEquipamento\GestaoEquipamento.ConsoleApp\bin\Debug\GestaoEquipamento.ConsoleApp.exe
+C:\Users\tinac\source\repos\GestaoEquipamento\GestaoEquipamento.ConsoleApp\bin\Debug\GestaoEquipamento.ConsoleApp.pdb
+C:\Users\tinac\source\repos\GestaoEquipamento\GestaoEquipamento.ConsoleApp\obj\Debug\GestaoEquipamento.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\tinac\source\repos\GestaoEquipamento\GestaoEquipamento.ConsoleApp\obj\Debug\GestaoEquipamento.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tinac\source\repos\GestaoEquipamento\GestaoEquipamento.ConsoleApp\obj\Debug\GestaoEquipamento.ConsoleApp.exe
+C:\Users\tinac\source\repos\GestaoEquipamento\GestaoEquipamento.ConsoleApp\obj\Debug\GestaoEquipamento.ConsoleApp.pdb
